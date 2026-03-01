@@ -65,22 +65,33 @@ Music system integration
 
 💙 Support Gohub
 
-Your support is our motivation to keep building cutting-edge technology and deliver the u<img width="1920" height="1080" alt="Screenshot_20260224_175113" src="https://github.com/user-attachments/assets/8e060889-9792-4cab-a640-2f0cfb82be2b" />
-ltimate home entertainment ecosystem for you and your family.
-<img width="1920" height="1080" alt="Screenshot_20260224_182601" src="https://github.com/user-attachments/assets/5115cdde-8f1b-4a99-868b-c2cce743d906" />
-<img width="1920" height="1080" alt="Screenshot_20260224_182534" src="https://github.com/user-attachments/assets/f066c7b2-0d93-4bd6-928c-f8063b758689" />
-<img width="1920" height="1080" alt="Screenshot_20260224_182519" src="https://github.com/user-attachments/assets/6b828736-d2f4-4eaf-9c87-7be8397373d1" />
-<img width="1920" height="1080" alt="Screenshot_20260224_182501" src="https://github.com/user-attachments/assets/5f6f462b-9914-4840-9b6c-ff0a78dab0eb" />
-<img width="1920" height="1080" alt="Screenshot_20260224_180301" src="https://github.com/user-attachments/assets/579a99fd-0603-4513-b4c4-2ca5791e7dc3" />
-<img width="1920" height="1080" alt="Screenshot_20260224_180239" src="https://github.com/user-attachments/assets/3d23515f-0d7c-4c1b-ba9e-346bfb8b87ec" />
-<img width="1920" height="1080" alt="Screenshot_20260224_175707" src="https://github.com/user-attachments/assets/acf4d7d0-50ba-4ba4-88d2-9a761ccf251d" />
-<img width="1920" height="1080" alt="Screenshot_20260224_175555" src="https://github.com/user-attachments/assets/714f0ee0-715e-41d2-996f-956ce79568db" />
-<img width="1920" height="1080" alt="Screenshot_20260224_175503" src="https://github.com/user-attachments/assets/6d7fac4a-c7e6-42ba-8f18-7c055c01d4b5" />
-<img width="1920" height="1080" alt="Screenshot_20260224_175421" src="https://github.com/user-attachments/assets/9d7a58bf-2ff6-46e1-af69-c7304febb61d" />
-<img width="1920" height="1080" alt="Screenshot_20260224_175220" src="https://github.com/user-attachments/assets/2935d6d6-e3a2-45a6-8792-fcc9a042606c" />
-<img width="1920" height="1080" alt="Screenshot_20260224_175201" src="https://github.com/user-attachments/assets/d73da73c-7adf-4014-bc2f-ed49dd4c0c29" />
-<img width="1920" height="1080" alt="Scree<img width="1920" height="1080" alt="Screenshot_20260224_174938" src="https://github.com/user-attachments/assets/66bc8373-174e-4846-8416-13f38f3c2938" />
-nshot_20260224_175135" src="https://github.com/user-attachments/assets/3f92522e-a349-4d4c-96c3-a2a9b15c0469" />
+Your support is our motivation to keep building cutting-edge technology and deliver the ultimate home entertainment ecosystem for you and your family.
 
+<img width="1920" height="1080" alt="Screenshot_20260228_194455" src="https://github.com/user-attachments/assets/ba7729bc-d497-43fa-9bca-38fd7de94545" />
+<img width="1920" height="1080" alt="Screenshot_20260224_182601" src="https://github.com/user-attachments/assets/dca827e4-0789-41d8-8e53-1e559d8179f5" />
+<img width="1920" height="1080" alt="Screenshot_20260224_182534" src="https://github.com/user-attachments/assets/d9ce6404-1b2d-49c9-8bfe-cd804110d1d2" />
+<img width="1920" height="1080" alt="Screenshot_20260224_182519" src="https://github.com/user-attachments/assets/add131e5-ac14-4e3e-9790-1169605846d1" />
+<img width="1920" height="1080" alt="Screenshot_20260224_182501" src="https://github.com/user-attachments/assets/fcf792cc-ad38-4bf2-8dbc-662a4577d5dd" />
+<img width="1920" height="1080" alt="Screenshot_20260224_180301" src="https://github.com/user-attachments/assets/089992a1-e15c-4fa9-9530-b780a6b3099c" />
+<img width="1920" height="1080" alt="Screenshot_20260224_180239" src="https://github.com/user-attachments/assets/747eeb5a-eb85-4635-8a6e-e2f4e1a8d9f7" />
+<img width="1920" height="1080" alt="Screenshot_20260224_180202" src="https://github.com/user-attachments/assets/58b9011c-a52f-4853-9e04-e6e25b8810be" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175707" src="https://github.com/user-attachments/assets/ce593490-d57e-43df-a92d-8e0913da1ecf" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175641" src="https://github.com/user-attachments/assets/b76ebe3f-0e7a-4329-94af-065eb7a840c4" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175609" src="https://github.com/user-attachments/assets/9412bfe3-bf74-46c1-bc12-847d5c9de29d" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175555" src="https://github.com/user-attachments/assets/1f4b5851-f635-4f40-bdea-24c8f4877b6f" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175533" src="https://github.com/user-attachments/assets/4d49f05a-10de-41bd-95b0-3fdbaa9c9d3f" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175503" src="https://github.com/user-attachments/assets/c9e61112-4445-4ffd-8c02-8c4449b99a99" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175448" src="https://github.com/user-attachments/assets/1f25e525-0b8b-41c3-875e-7ac8375185da" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175421" src="https://github.com/user-attachments/assets/6e0e5063-7187-4455-a655-32e7069327d0" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175406" src="https://github.com/user-attachments/assets/e7fa81dd-6368-450d-902e-ff166710f9f1" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175342" src="https://github.com/user-attachments/assets/fa20f312-8de0-498d-acb0-227d308c4d1d" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175322" src="https://github.com/user-attachments/assets/cbc11d40-166f-41ef-884b-d9910c88498e" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175305" src="https://github.com/user-attachments/assets/14c3a147-a26d-4ff3-ab3f-ee14920e305f" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175220" src="https://github.com/user-attachments/assets/fad59116-2411-4d55-b592-2d45d6591e46" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175201" src="https://github.com/user-attachments/assets/4d7b50d4-7382-4e3f-9044-7991717742d5" />
+<img width="1920" height="1080" alt="Screenshot_20260224_175135" src="https://github.com/user-attachments/assets/db8d9c0c-11d8-41ce-bb6b-c5b3b42e4bf3" />
+<img width="1920" height="1080" alt="Screenshot_20260224_174938" src="https://github.com/user-attachments/assets/a0870021-48b3-4cab-b89a-fbb804d6ed4a" />
 
 https://discord.gg/5e6rXqbM
+
+
