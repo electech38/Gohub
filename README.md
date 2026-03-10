@@ -90,7 +90,8 @@ Your support is our motivation to keep building cutting-edge technology and deli
 <img width="1920" height="1080" alt="Screenshot_20260224_175220" src="https://github.com/user-attachments/assets/fad59116-2411-4d55-b592-2d45d6591e46" />
 <img width="1920" height="1080" alt="Screenshot_20260224_175201" src="https://github.com/user-attachments/assets/4d7b50d4-7382-4e3f-9044-7991717742d5" />
 <img width="1920" height="1080" alt="Screenshot_20260224_175135" src="https://github.com/user-attachments/assets/db8d9c0c-11d8-41ce-bb6b-c5b3b42e4bf3" />
-<img width="1920" height="1080" alt="Screenshot_20260224_174938" src="https://github.com/user-attachments/assets/a0870021-48b3-4cab-b89a-fbb804d6ed4a" />
+<img width="1920" height="1080" alt="Screenshot_20260309_190707" src="https://github.com/user-attachments/assets/a4f6f829-8957-48ce-a747-85ce8e5b0013" />
+
 
 https://discord.gg/5e6rXqbM
 
