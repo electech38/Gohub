@@ -91,7 +91,10 @@ Your support is our motivation to keep building cutting-edge technology and deli
 <img width="1920" height="1080" alt="Screenshot_20260224_175201" src="https://github.com/user-attachments/assets/4d7b50d4-7382-4e3f-9044-7991717742d5" />
 <img width="1920" height="1080" alt="Screenshot_20260224_175135" src="https://github.com/user-attachments/assets/db8d9c0c-11d8-41ce-bb6b-c5b3b42e4bf3" />
 <img width="1920" height="1080" alt="Screenshot_20260309_190707" src="https://github.com/user-attachments/assets/a4f6f829-8957-48ce-a747-85ce8e5b0013" />
-
+<img width="1920" height="1080" alt="Screenshot_20260318_181754" src="https://github.com/user-attachments/assets/cbd9df7a-6760-4521-92a3-b92089911a88" />
+<img width="1920" height="1080" alt="Screenshot_20260318_181702" src="https://github.com/user-attachments/assets/1d83d877-5e38-4c64-91b1-0102ef28ad0f" />
+<img width="1920" height="1080" alt="Screenshot_20260318_181556" src="https://github.com/user-attachments/assets/56295f05-2013-487a-99a9-2fa5e1e0cf29" />
+<img width="1920" height="1080" alt="Screenshot_20260318_181458" src="https://github.com/user-attachments/assets/1708572e-cd17-4d41-ac24-6bfb3fbbf9d7" />
 
 https://discord.gg/5e6rXqbM
 
